@@ -1,0 +1,7 @@
+#adding config file to ignore
+
+api_keys.py
+
+**/api_keys.py
+
+**/*.DS_Store
